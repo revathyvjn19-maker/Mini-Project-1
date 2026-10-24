@@ -18,7 +18,7 @@ There is no duplicate values.
 
 # 3.	Standardize text values
 
-Removed unwanted spaces and standardize text formatting in columns such as Customer Name, City, Category, and Payment Mode in power query. 
+Removed unwanted spaces and standardize text formatting in columns such as Customer Name, City, Category, and Payment Mode using power query. 
 
 # 4.	Checked and correct date formats
    
