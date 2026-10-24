@@ -22,6 +22,8 @@ Removed unwanted spaces and standardize text formatting in columns such as Custo
 
 # 4.	Checked and correct date formats
    
-# 6.	Created a sales category column
+# 5.	Created a sales category column
 
 **= IF([Sales] >= 100000 then "High" else if [Sales] >= 50000 then "Medium" else "Low")**
+
+# 6.	Calculated discount amount 
